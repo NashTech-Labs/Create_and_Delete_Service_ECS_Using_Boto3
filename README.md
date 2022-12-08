@@ -4,7 +4,7 @@ This template shows how to create and delete the service in ECS using the Boto3.
 
 ---
 
-#### Prerequiste
+#### Prerequisite
 
 * Install Python
 * AWS Configure
